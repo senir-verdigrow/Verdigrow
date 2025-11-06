@@ -94,7 +94,7 @@ export default function About() {
         </div>
 
         {/* CEO section */}
-        <div className="grid md:grid-cols-2 gap-10 items-center max-w-5xl mx-auto">
+        {/* <div className="grid md:grid-cols-2 gap-10 items-center max-w-5xl mx-auto">
           <div className="relative w-full aspect-square rounded-xl overflow-hidden shadow-lg border-2 border-secondary">
             <Image
               src="/images/ceo.png"
@@ -134,7 +134,7 @@ export default function About() {
             <h3 className="font-sohne-regular text-lg">John Doe</h3>
             <p className=" text-gray-600">Founder & CEO of Verdigr​ow</p>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
