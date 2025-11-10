@@ -198,7 +198,7 @@ export default function Products() {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }} className="font-open text-[12px] md:text-lg text-justify">
-            <span className="font-bold text-sm  md:text-2xl">O</span>uur custom labeling service allows you to offer premium grow bags with your
+            <span className="font-bold text-sm  md:text-2xl">O</span>ur custom labeling service allows you to offer premium grow bags with your
             brand identity. Choose the ideal mix of cocopeat and cocochips, select
             packaging options, and set quality specifications. We will handle the rest,
             ensuring a product that reflects your brand and meets your customers’ needs. <br />
